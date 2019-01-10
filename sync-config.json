@@ -1,0 +1,8 @@
+{
+    "username": "root",
+    "password": "Klaxon22",
+    "host": "dev.stasht.biz",
+    "port": "22",
+    "localPath": "/mnt/c/stasht",
+    "remotePath": "/root/stasht"
+}
